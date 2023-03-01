@@ -7,11 +7,7 @@ export const navItems = [
     id: 1,
     name: "Home",
     href: "https://kicknft.xyz",
-
-
-
   },
-
   {
     id: 3,
     name: "Explore",
@@ -38,13 +34,13 @@ export const navItems = [
 ];
 
 export const socials = [
- 
+
   {
     id: 1,
     icon: "fa fa-twitter",
     href: "#",
   },
-  
+
 ];
 
 const headerData = {

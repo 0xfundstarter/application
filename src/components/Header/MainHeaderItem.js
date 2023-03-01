@@ -120,7 +120,7 @@ const MainHeaderItem = ({
           <div className="main-header-menus d-flex justify-content-between align-items-center">
             <div className="header-logo">
               <Link href="/projects">
-                <Image src={logo.src} alt="logo" />
+                <Image src={logo.src} alt="logo" width={250} />
               </Link>
             </div>
             <HeaderMenu navItems={navItems} />
